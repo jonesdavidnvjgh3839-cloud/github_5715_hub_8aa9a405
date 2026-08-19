@@ -16,34 +16,22 @@
       "status": "active"
     },
     {
-      "id": "customer-360",
-      "title": "Customer 360 View",
-      "category": "CRM",
-      "status": "deprecated"
-    },
-    {
-      "id": "inventory-optimizer",
-      "title": "Inventory Optimizer",
-      "category": "Supply Chain",
-      "status": "deprecated"
-    },
-    {
       "id": "lead-scoring",
       "title": "Lead Scoring",
       "category": "Sales",
-      "status": "pending"
+      "status": "active"
     },
     {
       "id": "doc-summarizer",
       "title": "Document Summarizer",
       "category": "Document AI",
-      "status": "pending"
+      "status": "active"
     },
     {
       "id": "smart-billing",
       "title": "Smart Billing Suite",
       "category": "Fintech",
-      "status": "pending"
+      "status": "active"
     }
   ]
 }
