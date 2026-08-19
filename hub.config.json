@@ -1,0 +1,49 @@
+{
+  "hub_name": "Solution Knowledge Hub",
+  "quarter": "2026 Q3",
+  "owner_team": "Content Operations",
+  "solutions": [
+    {
+      "id": "payroll-automation",
+      "title": "Payroll Automation",
+      "category": "HR Tech",
+      "status": "active"
+    },
+    {
+      "id": "fraud-detector",
+      "title": "Fraud Detector",
+      "category": "Risk",
+      "status": "active"
+    },
+    {
+      "id": "customer-360",
+      "title": "Customer 360 View",
+      "category": "CRM",
+      "status": "deprecated"
+    },
+    {
+      "id": "inventory-optimizer",
+      "title": "Inventory Optimizer",
+      "category": "Supply Chain",
+      "status": "deprecated"
+    },
+    {
+      "id": "lead-scoring",
+      "title": "Lead Scoring",
+      "category": "Sales",
+      "status": "pending"
+    },
+    {
+      "id": "doc-summarizer",
+      "title": "Document Summarizer",
+      "category": "Document AI",
+      "status": "pending"
+    },
+    {
+      "id": "smart-billing",
+      "title": "Smart Billing Suite",
+      "category": "Fintech",
+      "status": "pending"
+    }
+  ]
+}
